@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Bankroll</string>
+
+    <string name="a_001">App:</string>
+    <string name="a_003">Por Favor Espera</string>
+    <string name="a_004">Advertencia</string>
+    <string name="a_005">Archivo de copia de seguridad @1 no encontrado!</string>
+    <string name="a_006">Año</string>
+    <string name="a_007">Cambio</string>
+    <string name="a_008">Años</string>
+    <string name="a_009">Movimiento del cambio</string>
+    <string name="a_010">Cambio Torneo</string>
+    <string name="a_011">Vivo</string>
+
+    <string name="b_001">backup.json</string>
+    <string name="b_002">Copia de seguridad celebró con éxito en:</string>
+    <string name="b_003">Base de datos de copia de seguridad</string>
+    <string name="b_004">Copia de seguridad restaura correctamente !</string>
+
+    <string name="c_002">Contacto:</string>
+    <string name="c_003">Ajustes</string>
+    <string name="c_004">Confirmar</string>
+    <string name="c_005">Cancelar</string>
+    <string name="c_006">Compartir</string>
+
+    <string name="d_001">¿De verdad quieres hacer copia de seguridad de la base de datos ?</string>
+    <string name="d_002">¿Quieres compartir en otras aplicaciones ?</string>
+    <string name="d_003">¿Realmente desea restaurar la copia de seguridad de la base de datos ?</string>
+    <string name="d_004">Fecha</string>
+    <string name="d_005">Descripción</string>
+    <string name="d_006">¿Realmente eliminar movimiento @ 1?</string>
+    <string name="d_007">¿Realmente eliminar torneo @ 1?</string>
+    <string name="d_008">Mañana</string>
+    <string name="d_009">Días</string>
+
+    <string name="e_001">Error</string>
+    <string name="e_002">Borrar</string>
+    <string name="e_003">Debe seleccionar un recibo para esta operación.</string>
+    <string name="e_004">Entrada</string>
+    <string name="e_005">Debe seleccionar un torneo para esta operación.</string>
+
+    <string name="f_001">Copia de seguridad de la base de datos!</string>
+
+    <string name="i_001">Movimiento de la inclusión</string>
+    <string name="i_002">La inclusión del Torneo</string>
+
+    <string name="m_001">mm.mobilebr@gmail.com</string>
+    <string name="m_003">Movimientos</string>
+    <string name="m_004">Movimiento @1 incluido correctamente!</string>
+    <string name="m_005">Movimiento @1 cambió correctamente!</string>
+    <string name="m_006">Movimiento @ 1elimina correctamente!</string>
+    <string name="m_007">Mes</string>
+    <string name="m_008">Meses</string>
+    <string name="m_009">Mantenimiento Movimiento</string>
+    <string name="m_010">Modo</string>
+    <string name="m_011">MTT</string>
+    <string name="m_012">Mantenimiento del Torneo</string>
+    <string name="m_013">Manos de Poker Texas Holdem</string>
+
+    <string name="n_001">No se puede generar el archivo de datos !</string>
+    <string name="n_002">No se puede generar la copia de seguridad de la base de datos !</string>
+    <string name="n_003">No se pudo restaurar la copia de seguridad de la base de datos !</string>
+    <string name="n_004">No fue insertar el registro en la base de datos !</string>
+    <string name="n_005">No se actualiza el registro en la base de datos !</string>
+    <string name="n_006">No se elimina el registro en la base de datos !</string>
+
+    <string name="o_002">Pedido</string>
+    <string name="o_003">Pedido</string>
+
+    <string name="p_001">Poker Bankroll</string>
+    <string name="p_002">Búsqueda</string>
+    <string name="p_003">Posición</string>
+
+    <string name="q_001">Cantidad ReBuy</string>
+
+    <string name="r_001">Realizar copia de seguridad de base de datos</string>
+    <string name="r_002">Restaurar la base de datos de copia de seguridad</string>
+    <string name="r_003">Restauración de la base de datos de copia de seguridad !</string>
+    <string name="r_004">Retorno de la Inversión (ROI)</string>
+
+    <string name="s_001">Sobre</string>
+    <string name="s_002">Seleccione un elemento para completar esta operación !</string>
+    <string name="s_003">Se adjunta la copia de seguridad de la base de datos.</string>
+    <string name="s_004">Guardar</string>
+    <string name="s_005">Salida</string>
+    <string name="s_006">Sit And Go</string>
+    <string name="s_007">Equilibrio</string>
+    <string name="s_008">Spin And Go</string>
+
+    <string name="t_001">Torneos</string>
+    <string name="t_002">Tipo</string>
+    <string name="t_003">Tipos</string>
+    <string name="t_004">Torneo @1 incluido correctamente !</string>
+    <string name="t_005">Torneo @1 cambió correctamente!</string>
+    <string name="t_006">Torneo @1 elimina correctamente!</string>
+    <string name="t_007">Invertido total</string>
+    <string name="t_008">Ganancia total</string>
+    <string name="t_009">Todos</string>
+
+    <string name="v_001">Versión:</string>
+    <string name="v_002">Valor</string>
+    <string name="v_003">Valor Buy</string>
+    <string name="v_004">Valor ReBuy</string>
+    <string name="v_005">Valor AddOn</string>
+    <string name="v_006">Valor Premios</string>
+
+</resources>

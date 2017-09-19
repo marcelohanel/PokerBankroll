@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.1_4a2ca215e18fd7ac7b9a28ef84b15ef3cb9e7b6d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_4a2ca215e18fd7ac7b9a28ef84b15ef3cb9e7b6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.0_8ae5f27afefdc48641aa61301fb8c1384bd1f931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_f6aa18f4c3978f09ed53cca7250ddc5ddf7c53ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.2.0_f6aa18f4c3978f09ed53cca7250ddc5ddf7c53ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.1_f07ae3cc07f5e769c5e98557d840860bd8197417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-10.2.0_4a394533d833b5a6f8946ef3104db2bb33265aa6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.0_4a394533d833b5a6f8946ef3104db2bb33265aa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_f07ae3cc07f5e769c5e98557d840860bd8197417\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.1_7cf1654bfa2117d58a61c612e14c2e3c423aaca9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e8daacf5d8b081bde9bb4f450775b531d6d6301">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f979e78aea914f035b4835150924d3cba62f9cc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.2.0_6a43a10571e140e1d69dd964311ccf8d66df7aca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_6a43a10571e140e1d69dd964311ccf8d66df7aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.0_90d499661d19741316dcfbc2ffa26781880911a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_7cf1654bfa2117d58a61c612e14c2e3c423aaca9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_729419c553c7b1c70c802f8b850c07b2fb0ae2a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.1_17d1cad12f691b8eebbfa5953ab0835a93c82f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-10.2.0_90d499661d19741316dcfbc2ffa26781880911a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_17d1cad12f691b8eebbfa5953ab0835a93c82f1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.1_729419c553c7b1c70c802f8b850c07b2fb0ae2a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.2.0_50cf4a06e2ead61220bbd7248000d5c6627ef9a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.1_1ca18c6d8b717b84347b73d82a42777f1bffab69.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_50cf4a06e2ead61220bbd7248000d5c6627ef9a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_e29c60dcdd90a38c1ca66cbb3c1b64375476aaec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_1ca18c6d8b717b84347b73d82a42777f1bffab69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.1_e29c60dcdd90a38c1ca66cbb3c1b64375476aaec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.1_b429434698b804b1a43f5e0c727690856441ade8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_badf3ab9e964af93c559d9632ef72cc3363c71be\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.1.1_badf3ab9e964af93c559d9632ef72cc3363c71be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dd607f63a7ed41884e6486f27535171547ca677">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d2df6a34b1921e46054d59f65ff4e1e9913f1672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.0_798583fe57d0bba00f15137c1a0075113d119c18\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-10.2.0_798583fe57d0bba00f15137c1a0075113d119c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-10.2.0_8ae5f27afefdc48641aa61301fb8c1384bd1f931.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_b429434698b804b1a43f5e0c727690856441ade8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_6219b1f93bca80d48059c0974160ea9732ceb8eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Desenvolvimento\Android Studio\PokerBankroll\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.1_6219b1f93bca80d48059c0974160ea9732ceb8eb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Bankroll</string>
+
+    <string name="a_001">App:</string>
+    <string name="a_003">Warten Sie Mal</string>
+    <string name="a_004">Warnung</string>
+    <string name="a_005">Backup-Datei @1 wurde nicht gefunden!</string>
+    <string name="a_006">Jahr</string>
+    <string name="a_007">Veränderung</string>
+    <string name="a_008">Jahr Alt</string>
+    <string name="a_009">Bewegung der Veränderung</string>
+    <string name="a_010">Turnier Wechsel</string>
+    <string name="a_011">Wohnen</string>
+
+    <string name="b_001">backup.json</string>
+    <string name="b_002">Backup erfolgreich abgehalten:</string>
+    <string name="b_003">Datenbank sichern</string>
+    <string name="b_004">Backup erfolgreich wiederhergestellt !</string>
+
+    <string name="c_002">Kontakt:</string>
+    <string name="c_003">Einstellungen</string>
+    <string name="c_004">Bestätigen</string>
+    <string name="c_005">Stornieren</string>
+    <string name="c_006">Teilen</string>
+
+    <string name="d_001">Wollen Sie wirklich, um die Datenbank zu sichern ?</string>
+    <string name="d_002">Willst du es in anderen Anwendungen teilen ?</string>
+    <string name="d_003">Wollen Sie wirklich, um die Sicherung der Datenbank wieder her ?</string>
+    <string name="d_004">Datum</string>
+    <string name="d_005">Beschreibung</string>
+    <string name="d_006">Wirklich Bewegung löschen @1 ?</string>
+    <string name="d_007">Wirklich Turnier löschen @1 ?</string>
+    <string name="d_008">Morgen</string>
+    <string name="d_009">Tage</string>
+
+    <string name="e_001">Fehler</string>
+    <string name="e_002">Löschen</string>
+    <string name="e_003">Sie müssen eine Quittung für diesen Vorgang wählen.</string>
+    <string name="e_004">Eingang</string>
+    <string name="e_005">Sie müssen ein Turnier für diesen Vorgang wählen.</string>
+
+    <string name="f_001">Sicherung der Datenbank!</string>
+
+    <string name="i_001">Bewegung der Aufnahme</string>
+    <string name="i_002">Turnier Aufnahme</string>
+
+    <string name="m_001">mm.mobilebr@gmail.com</string>
+    <string name="m_003">Bewegungen</string>
+    <string name="m_004">Bewegung @1 erfolgreich hinzugefügt !</string>
+    <string name="m_005">Bewegung @1 erfolgreich geändert !</string>
+    <string name="m_006">Bewegung @1 erfolgreich entfernt !</string>
+    <string name="m_007">Monat</string>
+    <string name="m_008">Monate</string>
+    <string name="m_009">Bewegung Wartung</string>
+    <string name="m_010">Mode</string>
+    <string name="m_011">MTT</string>
+    <string name="m_012">Turnier Wartung</string>
+    <string name="m_013">Hände Texas Holdem</string>
+
+    <string name="n_001">Nicht in der Lage, die Datendatei zu erzeugen !</string>
+    <string name="n_002">Unfähig, die Sicherung der Datenbank zu erzeugen !</string>
+    <string name="n_003">Die Sicherung der Datenbank konnte nicht wiederhergestellt !</string>
+    <string name="n_004">Haben Sie nicht den Datensatz in die Datenbank einfügen !</string>
+    <string name="n_005">Es war nicht der Datensatz in der Datenbank zu aktualisieren !</string>
+    <string name="n_006">Haben Sie nicht den Datensatz in der Datenbank zu löschen !</string>
+
+    <string name="o_002">Bestellen</string>
+    <string name="o_003">Bestellen</string>
+
+    <string name="p_001">Poker Bankroll</string>
+    <string name="p_002">Suche</string>
+    <string name="p_003">Position</string>
+
+    <string name="q_001">Qty ReBuy</string>
+
+    <string name="r_001">Führen Sie Backup-Datenbank</string>
+    <string name="r_002">Sicherung wiederherstellen Data Base</string>
+    <string name="r_003">Wiederherstellen der Datenbank sichern !</string>
+    <string name="r_004">Return on Investment (ROI)</string>
+
+    <string name="s_001">über</string>
+    <string name="s_002">Wählen Sie ein Element, um diesen Vorgang abzuschließen !</string>
+    <string name="s_003">Im Anhang finden Sie die Sicherungskopie der Datenbank.</string>
+    <string name="s_004">Speichern</string>
+    <string name="s_005">Ausgabe</string>
+    <string name="s_006">Sit And Go</string>
+    <string name="s_007">Balance</string>
+    <string name="s_008">Spin And Go</string>
+
+    <string name="t_001">Turniere</string>
+    <string name="t_002">Art</string>
+    <string name="t_003">Typen</string>
+    <string name="t_004">Turnier @1 erfolgreich im Lieferumfang enthalten !</string>
+    <string name="t_005">Turnier @1 erfolgreich geändert !</string>
+    <string name="t_006">Turnier @1 erfolgreich entfernt !</string>
+    <string name="t_007">Gesamten Investierten</string>
+    <string name="t_008">Gesamtgewinn</string>
+    <string name="t_009">Alle</string>
+
+    <string name="v_001">Version:</string>
+    <string name="v_002">Wert</string>
+    <string name="v_003">Wert Buy</string>
+    <string name="v_004">Wert ReBuy</string>
+    <string name="v_005">Wert AddOn</string>
+    <string name="v_006">Wert Auszeichnungen</string>
+
+</resources>

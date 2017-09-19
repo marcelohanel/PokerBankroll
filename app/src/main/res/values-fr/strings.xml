@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Bankroll</string>
+
+    <string name="a_001">App:</string>
+    <string name="a_003">Sil vous plaît, attendez</string>
+    <string name="a_004">Avertissement</string>
+    <string name="a_005">Le fichier de sauvegarde @1 non trouvé !</string>
+    <string name="a_006">Année</string>
+    <string name="a_007">Changement</string>
+    <string name="a_008">Âgé</string>
+    <string name="a_009">Mouvement du changement</string>
+    <string name="a_010">Changement Tournoi</string>
+    <string name="a_011">Vivre</string>
+
+    <string name="b_001">backup.json</string>
+    <string name="b_002">Sauvegarde tenue avec succès à:</string>
+    <string name="b_003">Base de données de sauvegarde</string>
+    <string name="b_004">Sauvegarde restauré avec succès !</string>
+
+    <string name="c_002">Contact:</string>
+    <string name="c_003">Paramètres</string>
+    <string name="c_004">Confirmer</string>
+    <string name="c_005">Annuler</string>
+    <string name="c_006">Partager</string>
+
+    <string name="d_001">Voulez-vous vraiment à sauvegarder la base de données ?</string>
+    <string name="d_002">Vous voulez partager dans dautres applications ?</string>
+    <string name="d_003">Voulez-vous vraiment restaurer la sauvegarde de la base de données ?</string>
+    <string name="d_004">Date</string>
+    <string name="d_005">Description</string>
+    <string name="d_006">Vraiment supprimer mouvement @1 ?</string>
+    <string name="d_007">Vraiment supprimer tournoi @1 ?</string>
+    <string name="d_008">Matin</string>
+    <string name="d_009">Jours</string>
+
+    <string name="e_001">Erreur</string>
+    <string name="e_002">Effacer</string>
+    <string name="e_003">Vous devez sélectionner un reçu pour cette opération.</string>
+    <string name="e_004">Contribution</string>
+    <string name="e_005">Vous devez sélectionner un tournoi pour cette opération.</string>
+
+    <string name="f_001">Sauvegarde de la base de données!</string>
+
+    <string name="i_001">Mouvement de linclusion</string>
+    <string name="i_002">Inclusion Tournoi</string>
+
+    <string name="m_001">mm.mobilebr@gmail.com</string>
+    <string name="m_003">Mouvements</string>
+    <string name="m_004">Mouvement @1 inclus avec succès !</string>
+    <string name="m_005">Mouvement @1 modifié avec succès !</string>
+    <string name="m_006">Mouvement @1 retiré avec succès !</string>
+    <string name="m_007">Mois</string>
+    <string name="m_008">Mois</string>
+    <string name="m_009">Lentretien de Mouvement</string>
+    <string name="m_010">Mode</string>
+    <string name="m_011">MTT</string>
+    <string name="m_012">Entretien Tournoi</string>
+    <string name="m_013">Mains Poker Texas Holdem</string>
+
+    <string name="n_001">Impossible de générer le fichier de données !</string>
+    <string name="n_002">Impossible de générer la sauvegarde de la base de données !</string>
+    <string name="n_003">Impossible de restaurer la sauvegarde de la base de données !</string>
+    <string name="n_004">Il a été pas insérer lenregistrement dans la base de données !</string>
+    <string name="n_005">Il na pas été mise à jour le dossier de la base de données !</string>
+    <string name="n_006">Il na pas été de supprimer lenregistrement dans la base de données !</string>
+
+    <string name="o_002">Commande</string>
+    <string name="o_003">Commande</string>
+
+    <string name="p_001">Poker Bankroll</string>
+    <string name="p_002">Recherche</string>
+    <string name="p_003">Position</string>
+
+    <string name="q_001">Quantité ReBuy</string>
+
+    <string name="r_001">Effectuer Database Backup</string>
+    <string name="r_002">Restaurer la base de données de sauvegarde</string>
+    <string name="r_003">Restauration de la base de données de sauvegarde !</string>
+    <string name="r_004">Retour sur investissement (ROI)</string>
+
+    <string name="s_001">Sur</string>
+    <string name="s_002">Sélectionnez un élément pour terminer cette opération !</string>
+    <string name="s_003">Sil vous plaît trouver ci-joint la sauvegarde de la base de données.</string>
+    <string name="s_004">Sauvegarder</string>
+    <string name="s_005">Sortie</string>
+    <string name="s_006">Sit And Go</string>
+    <string name="s_007">Balance</string>
+    <string name="s_008">Spin And Go</string>
+
+    <string name="t_001">Tournois</string>
+    <string name="t_002">Type</string>
+    <string name="t_003">Types</string>
+    <string name="t_004">Tournoi @1 inclus avec succès !</string>
+    <string name="t_005">Tournoi @1 modifié avec succès !</string>
+    <string name="t_006">Tournoi @1 retiré avec succès !</string>
+    <string name="t_007">Total investi</string>
+    <string name="t_008">Gain total</string>
+    <string name="t_009">Tous</string>
+
+    <string name="v_001">Version:</string>
+    <string name="v_002">Valeur</string>
+    <string name="v_003">Valeur Buy</string>
+    <string name="v_004">Valeur ReBuy</string>
+    <string name="v_005">Valeur AddOn</string>
+    <string name="v_006">Valeur Prix</string>
+
+</resources>

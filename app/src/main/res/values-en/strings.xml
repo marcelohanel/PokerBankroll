@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Bankroll</string>
+
+    <string name="a_001">App:</string>
+    <string name="a_003">Please wait</string>
+    <string name="a_004">Warning</string>
+    <string name="a_005">Backup file @1 not found!</string>
+    <string name="a_006">Year</string>
+    <string name="a_007">Change</string>
+    <string name="a_008">Years</string>
+    <string name="a_009">Movement of change</string>
+    <string name="a_010">Tournament change</string>
+    <string name="a_011">Live</string>
+
+    <string name="b_001">backup.json</string>
+    <string name="b_002">Backup successfully held in:</string>
+    <string name="b_003">Backup Database</string>
+    <string name="b_004">Backup successfully restored!</string>
+
+    <string name="c_002">Contact:</string>
+    <string name="c_003">Settings</string>
+    <string name="c_004">Confirm</string>
+    <string name="c_005">Cancel</string>
+    <string name="c_006">Share</string>
+
+    <string name="d_001">Do you really want to back up the database ?</string>
+    <string name="d_002">Do you really want to share it in other applications ?</string>
+    <string name="d_003">Do you really want to restore the backup of the database ?</string>
+    <string name="d_004">Date</string>
+    <string name="d_005">Description</string>
+    <string name="d_006">Really delete motion @1 ?</string>
+    <string name="d_007">Really delete tournament @1 ?</string>
+    <string name="d_008">Day</string>
+    <string name="d_009">Days</string>
+
+    <string name="e_001">Error</string>
+    <string name="e_002">Delete</string>
+    <string name="e_003">You must select a receipt for this operation.</string>
+    <string name="e_004">Input</string>
+    <string name="e_005">You must select a tournament for this operation.</string>
+
+    <string name="f_001">Backing up the Database !</string>
+
+    <string name="i_001">Movement of inclusion</string>
+    <string name="i_002">Tournament inclusion</string>
+
+    <string name="m_001">mm.mobilebr@gmail.com</string>
+    <string name="m_003">Movements</string>
+    <string name="m_004">Movement @1 successfully included!</string>
+    <string name="m_005">Movement @1 successfully changed!</string>
+    <string name="m_006">Movement @1 successfully removed!</string>
+    <string name="m_007">Month</string>
+    <string name="m_008">Months</string>
+    <string name="m_009">Movement maintenance</string>
+    <string name="m_010">Mode</string>
+    <string name="m_011">MTT</string>
+    <string name="m_012">Tournament maintenance</string>
+    <string name="m_013">Hands Poker Texas Holdem</string>
+
+    <string name="n_001">Unable to generate the data file !</string>
+    <string name="n_002">Unable to generate the backup of the database !</string>
+    <string name="n_003">Could not restore the backup of the database !</string>
+    <string name="n_004">It was not insert the record in the database !</string>
+    <string name="n_005">It was not update the record in the database !</string>
+    <string name="n_006">It was not delete the record in the database !</string>
+
+    <string name="o_002">Order</string>
+    <string name="o_003">Order</string>
+
+    <string name="p_001">Poker Bankroll</string>
+    <string name="p_002">Search</string>
+    <string name="p_003">Position</string>
+
+    <string name="q_001">Qty ReBuy</string>
+
+    <string name="r_001">Perform Backup Database</string>
+    <string name="r_002">Restore Backup Data Base</string>
+    <string name="r_003">Restoring the Backup Database !</string>
+    <string name="r_004">Return on Investment (ROI)</string>
+
+    <string name="s_001">About</string>
+    <string name="s_002">Select an item to complete this operation!</string>
+    <string name="s_003">Please find attached the backup of the database.</string>
+    <string name="s_004">Save</string>
+    <string name="s_005">Output</string>
+    <string name="s_006">Sit And Go</string>
+    <string name="s_007">Balance</string>
+    <string name="s_008">Spin And Go</string>
+
+    <string name="t_001">Tournaments</string>
+    <string name="t_002">Type</string>
+    <string name="t_003">Types</string>
+    <string name="t_004">Tournament @1 successfully included!</string>
+    <string name="t_005">Tournament @1 successfully changed!</string>
+    <string name="t_006">Tournament @1 successfully removed!</string>
+    <string name="t_007">Total Invested</string>
+    <string name="t_008">Total Gain</string>
+    <string name="t_009">All</string>
+
+    <string name="v_001">Version:</string>
+    <string name="v_002">Value</string>
+    <string name="v_003">Value Buy</string>
+    <string name="v_004">Value ReBuy</string>
+    <string name="v_005">Value AddOn</string>
+    <string name="v_006">Value Awards</string>
+
+</resources>

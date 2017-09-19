@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Bankroll</string>
+
+    <string name="admob_banner" translatable="false">ca-app-pub-3565902738453119/6132846985</string>
+
+    <string name="a_001">Aplicativo:</string>
+    <string name="a_003">Aguarde</string>
+    <string name="a_004">Aviso</string>
+    <string name="a_005">Arquivo de backup @1 não encontrado !</string>
+    <string name="a_006">Ano</string>
+    <string name="a_007">Alterar</string>
+    <string name="a_008">Anos</string>
+    <string name="a_009">Alteração de Movimento</string>
+    <string name="a_010">Alteração de Torneio</string>
+    <string name="a_011">Ao Vivo</string>
+
+    <string name="b_001">backup.json</string>
+    <string name="b_002">Backup realizado com sucesso em:</string>
+    <string name="b_003">Backup da Base de Dados</string>
+    <string name="b_004">Backup restaurado com sucesso !</string>
+
+    <string name="c_001" translatable="false">Copyright:</string>
+    <string name="c_002">Contato:</string>
+    <string name="c_003">Configurações</string>
+    <string name="c_004">Confirmar</string>
+    <string name="c_005">Cancelar</string>
+    <string name="c_006">Compartilhar</string>
+    <string name="c_007" translatable="false">Cash</string>
+
+    <string name="d_001">Deseja realmente realizar o backup da base de dados ?</string>
+    <string name="d_002">Deseja compartilhar o mesmo em outros aplicativos ?</string>
+    <string name="d_003">Deseja realmente restaurar o backup da base de dados ?</string>
+    <string name="d_004">Data</string>
+    <string name="d_005">Descrição</string>
+    <string name="d_006">Deseja realmente excluir o movimento @1 ?</string>
+    <string name="d_007">Deseja realmente excluir o torneio @1 ?</string>
+    <string name="d_008">Dia</string>
+    <string name="d_009">Dias</string>
+
+    <string name="e_001">Erro</string>
+    <string name="e_002">Excluir</string>
+    <string name="e_003">É necessário selecionar um recebimento para realizar esta operação.</string>
+    <string name="e_004">Entrada</string>
+    <string name="e_005">É necessário selecionar um torneio para realizar esta operação.</string>
+
+    <string name="f_001">Fazendo Backup da Base de Dados !</string>
+
+    <string name="i_001">Inclusão de Movimento</string>
+    <string name="i_002">Inclusão de Torneio</string>
+
+    <string name="m_001">mm.mobilebr@gmail.com</string>
+    <string name="m_002" translatable="false">MM Mobile</string>
+    <string name="m_003">Movimentos</string>
+    <string name="m_004">Movimento @1 incluído com sucesso !</string>
+    <string name="m_005">Movimento @1 alterado com sucesso !</string>
+    <string name="m_006">Movimento @1 removido com sucesso !</string>
+    <string name="m_007">Mês</string>
+    <string name="m_008">Meses</string>
+    <string name="m_009">Manutenção do Movimento</string>
+    <string name="m_010">Modo</string>
+    <string name="m_011">MTT</string>
+    <string name="m_012">Manutenção do Torneio</string>
+    <string name="m_013">Mãos Poker Texas Holdem</string>
+
+    <string name="n_001">Não foi possível gerar o arquivo de dados !</string>
+    <string name="n_002">Não foi possível gerar o backup da base de dados !</string>
+    <string name="n_003">Não foi possível restaurar o backup da base de dados !</string>
+    <string name="n_004">Não foi inserir o registro na base de dados !</string>
+    <string name="n_005">Não foi atualizar o registro na base de dados !</string>
+    <string name="n_006">Não foi excluir o registro na base de dados !</string>
+
+    <string name="o_001" translatable="false">OK</string>
+    <string name="o_002">Ordenar</string>
+    <string name="o_003">Ordem</string>
+    <string name="o_004" translatable="false">On Line</string>
+
+    <string name="p_001">Poker Bankroll</string>
+    <string name="p_002">Pesquisar</string>
+    <string name="p_003">Posição</string>
+
+    <string name="q_001">Qtde ReBuy</string>
+
+    <string name="r_001">Realizar Backup da Base de Dados</string>
+    <string name="r_002">Restaurar Backup da Base de Dados</string>
+    <string name="r_003">Restaurando o Backup da Base de Dados !</string>
+    <string name="r_004">Retorno Sobre o Investimento (ROI)</string>
+    <string name="r_005" translatable="false">ROI</string>
+
+    <string name="s_001">Sobre</string>
+    <string name="s_002">Selecione um item para concluir esta operação !</string>
+    <string name="s_003">Segue em anexo o backup da base de dados.</string>
+    <string name="s_004">Salvar</string>
+    <string name="s_005">Saída</string>
+    <string name="s_006">Sit And Go</string>
+    <string name="s_007">Saldo</string>
+    <string name="s_008">Spin And Go</string>
+
+    <string name="t_001">Torneios</string>
+    <string name="t_002">Tipo</string>
+    <string name="t_003">Tipos</string>
+    <string name="t_004">Torneio @1 incluído com sucesso !</string>
+    <string name="t_005">Torneio @1 alterado com sucesso !</string>
+    <string name="t_006">Torneio @1 removido com sucesso !</string>
+    <string name="t_007">Total Investido</string>
+    <string name="t_008">Total Ganho</string>
+    <string name="t_009">Todos</string>
+
+    <string name="v_001">Versão:</string>
+    <string name="v_002">Valor</string>
+    <string name="v_003">Valor Buy</string>
+    <string name="v_004">Valor ReBuy</string>
+    <string name="v_005">Valor AddOn</string>
+    <string name="v_006">Valor Premiação</string>
+
+    <string name="_001" translatable="false">:</string>
+    <string name="_002" translatable="false">%</string>
+
+</resources>
